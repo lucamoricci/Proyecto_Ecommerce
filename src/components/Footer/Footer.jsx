@@ -21,13 +21,13 @@ const Footer = () => {
                             <div className="redes__sociales">
                                 <a href="https://www.facebook.com" target="_blank"><FacebookIcon /></a>
                                 <a href="https://www.instagram.com" target="_blank"> <InstagramIcon /> </a>
-                                <a href="https://www.linkedin.com/in/Nahuelz08" target="_blank"> <LinkedinIcon /> </a>
-                                <a href="https://github.com/Nahuelz08" target="_blank"> <GithubIcon /> </a>
+                                <a href="https://www.linkedin.com/in/luca-moricci-37050a277/" target="_blank"> <LinkedinIcon /> </a>
+                                <a href="https://github.com/lucamoricci" target="_blank"> <GithubIcon /> </a>
                             </div>
                     </div>
                 </div>
                 <div className="footer-final row text-center">
-                    <h4 className="text-white">© Developed by Nahuel Gramajo</h4>
+                    <h4 className="text-white">© Developed by Luca Moricci</h4>
                 </div>
             </footer>
         </>
