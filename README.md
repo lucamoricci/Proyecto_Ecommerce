@@ -16,10 +16,6 @@ Ademas los productos al realizar la compra se descuentan del stock almacenado en
 
 
 ## *Version Final:*
-Link a Vercel del proyecto: 
-- [![App](https://img.shields.io/badge/App-informational?style=for-the-badge&logo=netlify&logoColor=fff&color=23272d)](https://proyecto-ecommerce-react.vercel.app/)
-
-
 
 **Capturas de pantalla:**
 
